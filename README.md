@@ -8,7 +8,7 @@ I have already taken the Software Engineering class, and am excited to see the U
 
 ## UX Team Project
 
-Coming soon.
+[PriceCheck](https://github.com/ChicoState/pricecheck-ux)
 
 ## UX Journal
 
