@@ -5,7 +5,7 @@ By Gibson Smith, 4/30/2025
 
 This summer, I began learning how to make and manage Kubernetes clusters.  As a newcomer, this means I had to take on the daunting task of learning the `Kubectl` command-line interface.  I had to memorize about a dozen different commands, on top of needing to learn how all of the Kubernetes components are connected and working together.  Needless to say, this definitely led to me feeling **Cognitive Overload**, the amount of information or tasks exceeds a person's ability to process them, leading to confusion or mistakes.
 
-![screenshot of the Kubectl help message, looking very overwhelming](https://github.com/UsabilityEngineering/portfolio-gdsmith1/blob/main/journal/Screenshot%202025-04-29%20at%2012.08.31%E2%80%AFPM.png)
+![screenshot of the Kubectl help message, looking very overwhelming](journal/Screenshot 2025-04-29 at 12.08.31 PM.png)
 
 
 Then, I discovered `K9s`, a terminal UI for Kubernetes that dramatically improves the user experience over Kubectl by giving you a real-time, interactive, and visually organized way to manage your cluster with minimal efforts.
