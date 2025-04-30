@@ -12,4 +12,4 @@ I have already taken the Software Engineering class, and am excited to see the U
 
 ## UX Journal
 
-[Replace with title of journal](journal/)
+[K9s: a sane way to interact with Kubernetes](journal/k9s.md)
